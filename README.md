@@ -13,4 +13,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0704-binary-search](https://github.com/FahmadFarhan/dsa-cpp/tree/main/0704-binary-search/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/FahmadFarhan/dsa-cpp/tree/main/0344-reverse-string/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/FahmadFarhan/dsa-cpp/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
